@@ -12,6 +12,3 @@ ss://YWVzLTI1Ni1nY206YUNJajZmUHN5OTJYU0w0R0NjNHI0YWFCeWpycEErNTZXSEx4NmFzb1FqUT0
 
 # Japan Paid VPN
 vless://10df8588-70b3-4017-b3bb-9e9621cae064@47.79.42.124:15978?security=&encryption=none&headerType=&type=tcp#Japan Paid VPN
-
-# Japan - 2 Paid VPN
-vless://7ef78868-9231-4f46-ae32-b9d895ba1f04@35.72.4.81:53878?type=tcp&security=none#Japan-2 Paid VPN
