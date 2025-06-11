@@ -1,0 +1,17 @@
+# Singapore Paid VPN
+vless://00255a23-ac04-4cb7-8046-07d68d47f6ee@key1.yrnstfxxdcxsftddg6433.site:57112?type=tcp&security=none#Singapore Paid VPN
+
+# Singapore - 2 Paid VPN
+vless://d6417954-57cf-43ed-bc8c-088d9bda9fc5@54.179.183.251:16743?type=tcp&security=none#Singapore-2 Paid VPN
+
+# Myanmar Paid VPN
+vless://6bf0cb1f-5d6e-42c1-b675-04df6bdb767a@103.186.241.131:46141?type=tcp&security=none#Myanmar Paid VPN
+
+# Myanmar - 2 Paid VPN (ss protocol)
+ss://YWVzLTI1Ni1nY206YUNJajZmUHN5OTJYU0w0R0NjNHI0YWFCeWpycEErNTZXSEx4NmFzb1FqUT0@103.186.241.131:14512?type=tcp#Myanmar-2 Paid VPN
+
+# Japan Paid VPN
+vless://10df8588-70b3-4017-b3bb-9e9621cae064@47.79.42.124:15978?security=&encryption=none&headerType=&type=tcp#Japan Paid VPN
+
+# Japan - 2 Paid VPN
+vless://7ef78868-9231-4f46-ae32-b9d895ba1f04@35.72.4.81:53878?type=tcp&security=none#Japan-2 Paid VPN
